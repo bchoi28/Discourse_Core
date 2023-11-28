@@ -4,6 +4,8 @@
 /log
 /tmp
 
+**/.DS_Store
+
 /.bundle
 /.env
 /.procfile
